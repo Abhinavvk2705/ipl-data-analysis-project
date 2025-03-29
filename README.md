@@ -14,4 +14,3 @@ This project analyzes **sports data** to uncover key insights on **team performa
 - 🐼 **Pandas** – Data manipulation and preprocessing.
 - 📂 **SQL** – Querying structured sports datasets.
 
-## 📂 **PROJECT STRUCTURE**
